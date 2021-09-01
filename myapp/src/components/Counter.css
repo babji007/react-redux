@@ -1,0 +1,9 @@
+.counter {
+    position: fixed;
+    left: 10;
+    bottom: 50;
+    width: 100%;
+    background-color:rgb(128, 128, 128);
+    color: white;
+    text-align: center;
+ }

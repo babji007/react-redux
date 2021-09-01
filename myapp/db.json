@@ -1,0 +1,59 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "json-server",
+      "author": "typicode"
+    }
+  ],
+  "comments": [
+    {
+      "id": 1,
+      "body": "some comment",
+      "postId": 1
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "employees": [
+    {
+      "id": 7,
+      "name": "madhu",
+      "salary": 676760,
+      "doj": "march 19,2011"
+    },
+    {
+      "id": "9",
+      "name": "malla",
+      "salary": "534534",
+      "doj": "8/17/2021"
+    },
+    {
+      "id": "WsV5nSI",
+      "name": "",
+      "salary": 0,
+      "doj": "9/1/2021"
+    },
+    {
+      "id": "DKQ3GPV",
+      "name": "",
+      "salary": 0,
+      "doj": "9/1/2021"
+    },
+    {
+      "id": "RJ-4p16",
+      "name": "",
+      "salary": 0,
+      "doj": "9/1/2021"
+    }
+  ],
+  "products": [
+    {
+      "id": "8",
+      "name": "babji",
+      "price": "23456",
+      "location": "fdsdfg"
+    }
+  ]
+}
